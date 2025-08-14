@@ -239,7 +239,7 @@ html {
 .logo-container {
   display: flex;
   align-items: center;
-  gap: -100px;
+  gap: -px;
   margin-left: -80px;
   padding-left: 0;
 }
